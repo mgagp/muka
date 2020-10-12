@@ -16,5 +16,4 @@
         "request": "launch",
         "mainClass": "${file}"
     }
-]
 }

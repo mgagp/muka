@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.github.mgagp.muka</groupId>
-	<artifactId>mukaapp</artifactId>
+	<artifactId>muka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>muka-app</name>
 	<description>Multi kernel assembly for the atari 2600 allowing high level game composition from reusable components</description>
